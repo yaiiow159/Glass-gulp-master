@@ -4,4 +4,4 @@
 
 使用技術: html5、css、scss、boostrap、rwd響應式排版設計 <BR>
 
-畫面瀏覽 :https://yaiiow159.github.io/Glass-gulp-master/dist/index.html
+畫面瀏覽 :https://yaiiow159.github.io/glass-store/dist/index.html
